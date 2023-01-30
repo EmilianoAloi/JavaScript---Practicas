@@ -177,7 +177,7 @@ switch(valor) {
 
 //  ------------------ EJEMPLO 6 ----------------
 
-/*
+
 
 let palabra = prompt('Ingresar alguna de las siguientes palabras: casa, mesa, perro, gato')
 
@@ -193,7 +193,7 @@ if (palabra == 'casa') {
     alert('Esa palabra no esta dentro de las opciones')
 }
 
-*/
+
 
 // ---------------- EJEMPLO 7 -----------------
 /*
